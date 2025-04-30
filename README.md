@@ -28,7 +28,7 @@ See the full config here:
 
 This repository includes configuration for:
 
-- **Zsh** (`.zshrc`) with custom aliases and plugin loader
+- **[.zshrc](./.zshrc)** (`.zshrc`) with custom aliases and plugin loader
 - **Starship prompt** (`starship.toml`) for a fast, informative prompt
 - **Tmux** (`.tmux.conf`) with sensible defaults and vi-mode
 - **Custom scripts** (in `bin/` or `scripts/` if present)
